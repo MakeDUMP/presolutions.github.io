@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Продукция | presolutions.ru"
+title: "ООО «Прецизионные решения»"
 permalink: /productions
 ---
 # Продукция

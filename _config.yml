@@ -1,4 +1,10 @@
-domain: presolutions.ru
-url: https://presolutions.ru
-baseurl: /
+# domain: presolutions.ru
+# url: https://presolutions.ru
+# baseurl: /
+
+title: ООО «Прецизионные решения»
+description: "email: none@mail.ru"
+
 theme: jekyll-theme-cayman
+markdown: kramdown
+# show_downloads: true
