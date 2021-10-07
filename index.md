@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Presolutions -- 2021"
+title: "ООО «Прецизионные решения»"
 permalink: /
 ---
 # О компании

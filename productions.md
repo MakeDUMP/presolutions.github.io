@@ -1,5 +1,5 @@
 ---
-layout: productions
+layout: default
 title: "Продукция | presolutions.ru"
 permalink: /productions
 ---
