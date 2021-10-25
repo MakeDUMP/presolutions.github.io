@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <title>{{ page.title }}</title>
+</head>
+
+<body>
+    <header class="header">
+        <div class="header-name">ООО «Прецизионные решения»</div>
+        <nav class="nav">
+            <ul>
+                {% for item in site.data.navigation %}
+                <li><a href="{{ item.link }}" class="nav-item{% if page.url == item.link %}-active{% endif %}">{{ item.name }}</a></li>
+                {% endfor %}
+            </ul>
+            <mail>info@presolutions.ru</mail>
+        </nav>
+    </header>
+
+    <div class="content">
+        <br />
+        {{ content }}
+    </div>
+
+    <footer class="">&copy; 2021 ООО «Прецизионные решения»</footer>
+</body>
+
+</html>

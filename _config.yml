@@ -2,9 +2,9 @@
 # url: https://presolutions.ru
 # baseurl: /
 
-title: ООО «Прецизионные решения»
-description: "e-mail: info@presolutions.ru"
+#title: ООО «Прецизионные решения»
+#description: "e-mail: info@presolutions.ru"
 
-theme: jekyll-theme-cayman
-markdown: kramdown
+#theme: jekyll-theme-cayman
+#markdown: kramdown
 # show_downloads: true
