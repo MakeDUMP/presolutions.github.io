@@ -70,9 +70,8 @@ body {
 
 footer {
     margin: 0rem 6rem 2rem 6rem;
+    padding-top: 0.3rem;
     border-top: solid 1px #eff0f1;
     color: #819198;
-    /* margin: 0 auto;
-    font-size: 1.1rem;
-    word-wrap: break-word; */
+    font-size: 1rem;
 }
